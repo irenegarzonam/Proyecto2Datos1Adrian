@@ -1,0 +1,16 @@
+{
+  "platillos": [
+    {
+      "nombre": "Hamburguesa",
+      "calorias": 500,
+      "tiempoPreparacion": 15,
+      "precio": 10.99
+    },
+    {
+      "nombre": "Ensalada",
+      "calorias": 200,
+      "tiempoPreparacion": 10,
+      "precio": 5.99
+    }
+  ]
+}

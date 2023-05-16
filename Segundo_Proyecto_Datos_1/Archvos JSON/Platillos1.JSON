@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Ensalada Cesar",
+    "calorias": 150,
+    "tiempoPreparacion": 10,
+    "precio": 8.99
+  },
+  {
+    "nombre": "Pollo",
+    "calorias": 55,
+    "tiempoPreparacion": 1,
+    "precio": 1500.0
+  }
+]

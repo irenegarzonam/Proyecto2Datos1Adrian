@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="oracle.database.xml.xmlparserv2_sans_jaxp_services" type="repository">
+    <properties maven-id="com.oracle.database.xml:xmlparserv2_sans_jaxp_services:23.2.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/database/xml/xmlparserv2_sans_jaxp_services/23.2.0.0/xmlparserv2_sans_jaxp_services-23.2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
